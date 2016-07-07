@@ -1,6 +1,9 @@
 # Java
 
 To compile a java program:
-	javac <programname.java>
+
+	javac [programname.java]
+	
 To run a hava program:
-	java <classname.class>
+
+	java [classname.class]
